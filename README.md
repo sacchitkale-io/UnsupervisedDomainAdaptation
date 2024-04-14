@@ -1,1 +1,1 @@
-This is an  Implementation of Unsupervised Domain Adaptation using BackPropgation
+This is an  Implementation of Unsupervised Domain Adaptation using BackPropagation
