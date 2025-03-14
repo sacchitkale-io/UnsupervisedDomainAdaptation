@@ -1,1 +1,3 @@
-This is an  Implementation of Unsupervised Domain Adaptation using BackPropagation
+Implementation of Unsupervised Domain Adaptation using a Domain Adverserial Neural Network.
+
+
